@@ -32,5 +32,17 @@
     "category": "AI",
     "assetMatch": "1FlowAiAssistant.zip",
     "executableName": "1FlowAiAssistant.exe"
+  },
+  {
+    "id": "soundpanel",
+    "name": "1Flow SoundPanel",
+    "iconText": "♪",
+    "iconUrl": "https://raw.githubusercontent.com/KhubuliaVato/soundpanel/main/app.ico",
+    "description": "ხმოვანი ბიბლიოთეკა, სწრაფი ძებნა, ეფექტები, მინი-პლეერი, ხმოვანი ბრძანებები და ჩამოტვირთვა.",
+    "repoOwner": "KhubuliaVato",
+    "repoName": "soundpanel",
+    "category": "აუდიო",
+    "assetMatch": "1FlowSoundPanel.zip",
+    "executableName": "1Flow.SoundPanel.exe"
   }
 ]
