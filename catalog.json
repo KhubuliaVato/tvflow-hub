@@ -20,5 +20,17 @@
     "repoName": "flow-downloader",
     "assetMatch": "downloader.zip",
     "executableName": "downloader.exe"
+  },
+  {
+    "id": "ai-assistant",
+    "name": "1Flow AiAssistant",
+    "iconText": "✦",
+    "iconUrl": "https://raw.githubusercontent.com/KhubuliaVato/aiassistant/main/assets/logos/logo.png",
+    "description": "ვიდეოს AI დამუშავება სიახლეების გუნდისთვის: ვერტიკალიზაცია, მონტაჟი, AI ფონი, სახის დაბუნდოვნება, ხმის ჩაწერა და გადმოწერა.",
+    "repoOwner": "KhubuliaVato",
+    "repoName": "aiassistant",
+    "category": "AI",
+    "assetMatch": "1FlowAiAssistant.zip",
+    "executableName": "1FlowAiAssistant.exe"
   }
 ]
