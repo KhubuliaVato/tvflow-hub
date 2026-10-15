@@ -1,10 +1,10 @@
 [
   {
     "id": "super-recorder",
-    "name": "Super Recorder",
+    "name": "1Flow SuperRecorder",
     "iconText": "●",
     "iconUrl": "https://raw.githubusercontent.com/KhubuliaVato/super-recorder/main/icon.png",
-    "description": "ეკრანის ჩაწერის პროგრამა 1TV Flow-ს ეკოსისტემისთვის. მონიტორის, პროგრამის ან მთელი ეკრანის ჩაწერა, ხმის ჩაწერა კომპიუტერიდან და მიკროფონიდან.",
+    "description": "ეკრანის ჩაწერა: მონიტორი, პროგრამა ან მთელი ეკრანი, ხმა კომპიუტერიდან და მიკროფონიდან.",
     "repoOwner": "KhubuliaVato",
     "repoName": "super-recorder",
     "assetMatch": "SuperRecorder.zip",
@@ -13,7 +13,7 @@
   },
   {
     "id": "flow-downloader",
-    "name": "1TV Flow Downloader",
+    "name": "1Flow Downloader",
     "iconText": "↓",
     "iconUrl": "https://raw.githubusercontent.com/KhubuliaVato/flow-downloader/main/icon.png",
     "description": "მედია ფაილების ჩამოტვირთვა და ავტომატური ფორმატირება.",
