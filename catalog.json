@@ -8,7 +8,8 @@
     "repoOwner": "KhubuliaVato",
     "repoName": "super-recorder",
     "assetMatch": "SuperRecorder.zip",
-    "executableName": "SuperRecorder.exe"
+    "executableName": "SuperRecorder.exe",
+    "status": "ready"
   },
   {
     "id": "flow-downloader",
@@ -19,7 +20,8 @@
     "repoOwner": "KhubuliaVato",
     "repoName": "flow-downloader",
     "assetMatch": "downloader.zip",
-    "executableName": "downloader.exe"
+    "executableName": "downloader.exe",
+    "status": "ready"
   },
   {
     "id": "ai-assistant",
@@ -31,7 +33,8 @@
     "repoName": "aiassistant",
     "category": "AI",
     "assetMatch": "1FlowAiAssistant.zip",
-    "executableName": "1FlowAiAssistant.exe"
+    "executableName": "1FlowAiAssistant.exe",
+    "status": "soon"
   },
   {
     "id": "soundpanel",
@@ -43,6 +46,7 @@
     "repoName": "soundpanel",
     "category": "აუდიო",
     "assetMatch": "1FlowSoundPanel.zip",
-    "executableName": "1Flow.SoundPanel.exe"
+    "executableName": "1Flow.SoundPanel.exe",
+    "status": "beta"
   }
 ]
