@@ -29,7 +29,7 @@
     "name": "1Flow Eye",
     "iconText": "◉",
     "iconUrl": "https://raw.githubusercontent.com/KhubuliaVato/tvflow-hub/main/icons/eye.png?v=1",
-    "description": "ლინკების რიგი: Telegram-ის ჯგუფში ჩაგდებულ ლინკებს საერთო რიგში აწყობს და 1Flow Downloader-ს სათითაოდ გადასცემს, რომ რამდენიმე ჟურნალისტის ლინკი არ აირიოს. საჭიროა Downloader v2.7.0+.",
+    "description": "ლინკების რიგი: Telegram-ის ჯგუფში ჩაგდებულ ლინკებს საერთო რიგში აწყობს და 1Flow Downloader-ს სათითაოდ გადასცემს, რომ რამდენიმე ჟურნალისტის ლინკი არ აირიოს. ეკრანზე ჩანს ეტაპი და პროცენტი, ჩავარდნილი მასალა ცალკე ჩანართშია. საჭიროა Downloader v2.8.0+.",
     "repoOwner": "KhubuliaVato",
     "repoName": "1floweye",
     "category": "ინჯესტი",
